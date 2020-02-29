@@ -1,3 +1,4 @@
+from node.py import Node
 class LinkedList:
 
 	def __init__ ( self, head = None, size = 0, tail = None ):
